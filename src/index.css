@@ -1,3 +1,15 @@
+/* ! header */
+@import url('./components/header/header.css');
+
+/* ! tabs */
+@import url('./components/tabs/tabs.css');
+
+/* ! chart */
+@import url('components/chart/chart.css');
+
+/* ! history table */
+@import url('./components/historyTable/historyTable.css');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

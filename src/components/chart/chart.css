@@ -1,0 +1,23 @@
+.overview-chart {
+  padding: 20px;
+}
+
+.chart__selector {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+
+.chart__selector button {
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+  border: 1px solid #e0e0e0;
+  background: #f8f8f8;
+  outline: none;
+}
+
+.chart__selector button:hover {
+  background: #e0e0e0;
+}
